@@ -7,6 +7,11 @@
 
 import UIKit
 
+// Location: CoreLocation
+// table view
+// custom cell: collection view
+// API / request to get the data
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
